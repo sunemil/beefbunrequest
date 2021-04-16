@@ -1,0 +1,15 @@
+{
+  "name": "chineselady",
+  "version": "1.0.0",
+  "description": "take orders from customers and reply back to them on the wait time",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emily sun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
